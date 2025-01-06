@@ -12,7 +12,7 @@
 <h3 align="center">A passionate Full Stack Developer from karachi,pakistan</h3>
 
 <!-- <img src="" alt=""> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-r-01&label=Profile%20views&color=0e75b6&style=flat" alt="adil-r-01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-r-01&label=Profile%20views&color=0e75b6&style=flat" alt="Adil-R-01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adil-r-01" alt="adil-r-01" /></a> </p>
 
