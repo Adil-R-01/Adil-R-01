@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
+![logo]([https://github.com/Adil-R-01/Adil-R-01/blob/main/image.png](https://t4.ftcdn.net/jpg/02/67/52/49/360_F_267524919_wXbVQHR189pLVU06eQ85GGLnJMq2eJFR.jpg))
 
     <h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">A passionate Full Stack Developer from karachi,pakistan</h3>
@@ -33,5 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adil-r-01&" alt="adil-r-01" /></p>
 
-</body>
-</html>
