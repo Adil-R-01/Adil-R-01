@@ -1,4 +1,4 @@
-![logo]([https://github.com/Adil-R-01/Adil-R-01/blob/main/image.png](https://t4.ftcdn.net/jpg/02/67/52/49/360_F_267524919_wXbVQHR189pLVU06eQ85GGLnJMq2eJFR.jpg))
+![logo](https://github.com/Adil-R-01/Adil-R-01/blob/main/360_F_267524919_wXbVQHR189pLVU06eQ85GGLnJMq2eJFR.jpg)
 
     <h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">A passionate Full Stack Developer from karachi,pakistan</h3>
